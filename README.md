@@ -1,2 +1,2 @@
-# VideoGame
-Video game project that we are testing
+# oPlayer 1
+All code dedicated to the interaction and programming of the player.
